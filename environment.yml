@@ -1,0 +1,8 @@
+name: nearest_volcano
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - cartopy
+  - pandas
